@@ -361,5 +361,27 @@
       "Hokkaido"
     ],
     "correctIndex": 0
-  }
+  },
+  {
+    "question": "Which season is associated with red maple leaves (momiji) in Japan?",
+    "difficulty": "medium",
+    "answers": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "correctIndex": 2
+  },
+  {
+  "question": "What is the Japanese term for a traditional paper umbrella?",
+  "difficulty": "medium",
+  "answers": [
+    "Wagasa",
+    "Sensu",
+    "Uchiwa",
+    "Furoshiki"
+  ],
+  "correctIndex": 0
+}
 ]
